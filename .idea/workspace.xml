@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="061a988f-faf1-4331-9192-f232506dd8ef" name="Changes" comment="Create WordProject">
+    <list default="true" id="061a988f-faf1-4331-9192-f232506dd8ef" name="Changes" comment="영단어 마스터 문구 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662105045275</updated>
       <workItem from="1662105046651" duration="1668000" />
-      <workItem from="1662279467252" duration="2019000" />
+      <workItem from="1662279467252" duration="2817000" />
     </task>
     <task id="LOCAL-00001" summary="Create WordProject">
       <created>1662105388424</created>
@@ -59,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662105388424</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="프로그램 종료 문구 추가">
+      <created>1662286668332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662286668332</updated>
+    </task>
+    <task id="LOCAL-00003" summary="영단어 마스터 문구 수정">
+      <created>1662286829522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662286829522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +91,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create WordProject" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create WordProject" />
+    <MESSAGE value="프로그램 종료 문구 추가" />
+    <MESSAGE value="영단어 마스터 문구 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="영단어 마스터 문구 수정" />
   </component>
 </project>
