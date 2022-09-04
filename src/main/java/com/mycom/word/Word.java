@@ -1,8 +1,6 @@
 package com.mycom.word;
 //데이터 클래스
 public class Word {
-
-
     private int id;
     private int level;
     private String word;
@@ -51,7 +49,4 @@ public class Word {
                 + String.format("%15s", word) + "  "+meaning;
         return str;
     }
-
-
-
 }
