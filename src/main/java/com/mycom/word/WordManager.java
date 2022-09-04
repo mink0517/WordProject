@@ -24,8 +24,7 @@ public class WordManager {//CRUD 기능을 관리하는 전체적인 역할
     }
 
     public int selectMenu() {
-        System.out.print("*** 영단어 마스터 ***\n"
-                +"*******************\n"
+        System.out.print("*******************\n"
                 +"1. 모든 단어 보기\n"
                 +"2. 수준별 단어 보기\n"
                 +"3. 단어 검색\n"
