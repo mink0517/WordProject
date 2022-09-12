@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="061a988f-faf1-4331-9192-f232506dd8ef" name="Changes" comment="단어장 추가 문구 수정">
-      <change afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
+    <list default="true" id="061a988f-faf1-4331-9192-f232506dd8ef" name="Changes" comment="파일 저장 test 파일 대신 진짜 dictionary 파일로 저장되게 수정">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
     </list>
@@ -54,7 +51,7 @@
       <workItem from="1662105046651" duration="1668000" />
       <workItem from="1662279467252" duration="5469000" />
       <workItem from="1662881374995" duration="2785000" />
-      <workItem from="1662962725929" duration="5333000" />
+      <workItem from="1662962725929" duration="6005000" />
     </task>
     <task id="LOCAL-00001" summary="Create WordProject">
       <created>1662105388424</created>
@@ -84,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662287539883</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="단어수정, 단어삭제, 파일 저장 추가">
+      <created>1662968159828</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662968159828</updated>
+    </task>
+    <task id="LOCAL-00006" summary="파일 저장 test 파일 대신 진짜 dictionary 파일로 저장되게 수정">
+      <created>1662968304920</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662968304920</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +117,8 @@
     <MESSAGE value="프로그램 종료 문구 추가" />
     <MESSAGE value="영단어 마스터 문구 수정" />
     <MESSAGE value="단어장 추가 문구 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="단어장 추가 문구 수정" />
+    <MESSAGE value="단어수정, 단어삭제, 파일 저장 추가" />
+    <MESSAGE value="파일 저장 test 파일 대신 진짜 dictionary 파일로 저장되게 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="파일 저장 test 파일 대신 진짜 dictionary 파일로 저장되게 수정" />
   </component>
 </project>
