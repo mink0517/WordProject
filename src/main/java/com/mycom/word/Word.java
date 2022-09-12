@@ -8,6 +8,7 @@ public class Word {
     public int getId() {
         return id;
     }
+
     Word(){}
     Word(int id, int level, String word, String meaning){
         this.id = id;
@@ -48,5 +49,9 @@ public class Word {
         String str = String.format("%-3s", slevel)
                 + String.format("%15s", word) + "  "+meaning;
         return str;
+    }
+    //file에 data를 출력할때 어떤 format으로 쓸지 정해줄 예정
+    public String toFileString(){
+        return this.level + "|" + this.word + "|" + this.meaning;
     }
 }

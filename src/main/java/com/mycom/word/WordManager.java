@@ -40,6 +40,8 @@ public class WordManager {//CRUD 기능을 관리하는 전체적인 역할
     }
 
     public void start() {
+
+        wordCRUD.loadFile();
         while(true) {
             int menu = selectMenu();
             if(menu == 0) {
@@ -47,11 +49,21 @@ public class WordManager {//CRUD 기능을 관리하는 전체적인 역할
                 break;
             }
             if(menu == 4) {
-                wordCRUD.addWord();
+                wordCRUD.addItem();
             }
             else if(menu == 1) {
                 wordCRUD.listAll();
             }
+            else if(menu == 5) {//update
+                wordCRUD.updateItem();
+            }
+            else if(menu == 6) {//delete
+              wordCRUD.deleteItem();
+            }
+            else if(menu == 7) {//delete
+                wordCRUD.saveFile();
+            }
+
         }
 
 
