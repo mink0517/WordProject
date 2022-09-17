@@ -9,3 +9,4 @@
 2|embarrassment|당황, 난처함
 2|publicity|명성, 평판, 널리 알려짐, 공표
 1| apple|apple
+1| kiwi|키위

@@ -125,7 +125,7 @@ public class WordCRUD implements ICRUD{
         int id = s.nextInt();
         s.nextLine();//id뒤에 있는 enter는 여기로 들어가게 됨
 
-        System.out.print("=> 정말로 삭제하실래요?(Y/n) ");
+        System.out.print("=> 정말로 삭제하실래요?(y/n) ");
         String ans = s.next();
         if(ans.equalsIgnoreCase("y")){
             list.remove((int)idlist.get(id-1));//정수로 넣어주게 되어있는데 객체로 되어있어서 정수형으로 바꿔주어야함
