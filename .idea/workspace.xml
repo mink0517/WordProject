@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="061a988f-faf1-4331-9192-f232506dd8ef" name="Changes" comment="단어 검색 기능 추가">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
+    <list default="true" id="061a988f-faf1-4331-9192-f232506dd8ef" name="Changes" comment="익명개체 주석 추가와 출력 수정">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
       <workItem from="1662962725929" duration="6317000" />
       <workItem from="1663052294578" duration="2393000" />
       <workItem from="1663311697540" duration="2575000" />
-      <workItem from="1663390728262" duration="520000" />
+      <workItem from="1663390728262" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="Create WordProject">
       <created>1662105388424</created>
@@ -114,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662968973701</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="익명개체 주석 추가와 출력 수정">
+      <created>1663391280270</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663391280270</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +144,7 @@
     <MESSAGE value="파일 저장 test 파일 대신 진짜 dictionary 파일로 저장되게 수정" />
     <MESSAGE value="수준별 단어 보기 추가" />
     <MESSAGE value="단어 검색 기능 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="단어 검색 기능 추가" />
+    <MESSAGE value="익명개체 주석 추가와 출력 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="익명개체 주석 추가와 출력 수정" />
   </component>
 </project>
