@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="061a988f-faf1-4331-9192-f232506dd8ef" name="Changes" comment="익명개체 주석 추가와 출력 수정">
+    <list default="true" id="061a988f-faf1-4331-9192-f232506dd8ef" name="Changes" comment="문구 수정">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       <workItem from="1662962725929" duration="6317000" />
       <workItem from="1663052294578" duration="2393000" />
       <workItem from="1663311697540" duration="2575000" />
-      <workItem from="1663390728262" duration="599000" />
+      <workItem from="1663390728262" duration="627000" />
     </task>
     <task id="LOCAL-00001" summary="Create WordProject">
       <created>1662105388424</created>
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663391280270</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="문구 수정">
+      <created>1663391336452</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663391336452</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +152,7 @@
     <MESSAGE value="수준별 단어 보기 추가" />
     <MESSAGE value="단어 검색 기능 추가" />
     <MESSAGE value="익명개체 주석 추가와 출력 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="익명개체 주석 추가와 출력 수정" />
+    <MESSAGE value="문구 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="문구 수정" />
   </component>
 </project>
